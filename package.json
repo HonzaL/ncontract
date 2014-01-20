@@ -1,0 +1,22 @@
+{
+  "name": "ncontract",
+  "version": "0.1.0",
+  "description": "Contract base classes",
+  "main": "./lib/ncontract",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HonzaL/ncontract.git"
+  },
+  "dependencies": {
+    "mongoose": "3.6.x"
+  },
+  "author": "Jan Lisal <lisal.honza@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "1.7.x",
+    "should": "1.2.x"
+  }
+}
